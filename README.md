@@ -1,2 +1,2 @@
 # SampleWebApp
-pipeline-CI-CD
+pipeline-CI-CD-test
